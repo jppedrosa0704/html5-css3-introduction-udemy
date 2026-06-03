@@ -1,22 +1,25 @@
-Project: Basic HTML Structure
-This project contains a simple HTML file created for practicing the fundamentals of HTML5.
-The page includes a basic document structure, a heading, and a sample paragraph using placeholder text (Lorem ipsum).
+📘 Basic HTML Structure
+This repository contains a simple HTML file created as part of my learning journey in HTML5.
+The project demonstrates the essential structure of an HTML document, including headings, paragraphs, and proper semantic setup.
 
-File contents
-The HTML file demonstrates:
-
+📄 Features
 Correct use of <!DOCTYPE html>
 
 Language declaration with lang="pt-BR"
 
 UTF‑8 character encoding
 
-Responsive viewport configuration
+Responsive viewport meta tag
 
-A page title
+Page title
 
-A main heading (<h1>)
+Main heading (<h1>)
 
-A paragraph (<p>) with sample text
+Sample paragraph using Lorem ipsum text
 
-This exercise is part of my learning path in HTML5 and web development.
+🧩 Purpose
+This exercise was created to practice the fundamentals of HTML5 and understand how a basic webpage is structured.
+It serves as an introductory step toward more advanced web development concepts.
+
+🚀 How to Use
+Simply open the HTML file in any web browser to view the rendered page.
