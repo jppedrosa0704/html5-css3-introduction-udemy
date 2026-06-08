@@ -75,3 +75,9 @@ Estruturação de páginas web
 Manipulação de estilos
 
 Construção de layouts modernos
+
+
+## 🌐 Acessar o site
+
+👉 [Clique aqui para abrir o site no navegador](https://jppedrosa0704.github.io/html5-css3-introduction-udemy/lesson-6/lesson_6_html_css.htm)
+
