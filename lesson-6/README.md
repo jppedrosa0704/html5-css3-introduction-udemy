@@ -56,7 +56,8 @@ background-position: top center;
 Faça o download ou clone o repositório:
 
 Código
-git clone https://github.com/SEU-USUARIO/NOME-DO-REPO.git
+git clone https://github.com/jppedrosa0704/html5-css3-introduction-udemy.git
+
 Abra o arquivo index.html no navegador.
 
 O site funciona sem dependências externas.
