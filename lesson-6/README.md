@@ -77,7 +77,7 @@ Manipulação de estilos
 Construção de layouts modernos
 
 
-## 🌐 Acessar o site
+## 🌐 Acessar o site do projeto
 
-👉 [Clique aqui para abrir o site no navegador](https://jppedrosa0704.github.io/html5-css3-introduction-udemy/lesson-6/lesson_6_html_css.htm)
+👉 [Clique aqui para abrir o site](https://jppedrosa0704.github.io/html5-css3-introduction-udemy/)
 
