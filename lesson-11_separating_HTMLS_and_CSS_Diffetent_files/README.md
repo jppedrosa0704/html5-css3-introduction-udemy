@@ -81,10 +81,8 @@ Estrutura de “pai e filha” para demonstrar o combinador >
 Conteúdo simples para visualizar claramente o efeito de cada regra CSS
 
 🚀 Como visualizar
-Basta abrir o arquivo:
-
-Código
-index.html
+Basta acessar o arquivo:
+https://jppedrosa0704.github.io/html5-css3-introduction-udemy/lesson-11_separating_HTMLS_and_CSS_Diffetent_files/
 em qualquer navegador.
 
 📌 Tecnologias Utilizadas
