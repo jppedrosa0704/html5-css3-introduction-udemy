@@ -1,22 +1,64 @@
-body {
-  background: darkgrey;
+h1 {
+  color: blue;
 }
 
-* {
-  margin: 0;
-  padding: 0;
-}
-.grid::after {
-  content: " ";
-  display: block;
-  clear: both;
-}
-
-.grid .column {
-  width: 100px;
-  height: 100px;
+.paragrafo-1:hover {
   background: red;
-  margin: 15px;
-  float: left;
+  transition: all 2s ease-in-out;
+}
+body {
+  background-color: darkgray;
 }
 
+a{
+  color: rgb(255, 0, 0);
+}
+
+a:link {
+  color: rgb(165, 42, 128);
+}
+
+a:visited {
+  color: darkolivegreen;
+}
+
+a:hover {
+  background: white;
+  color: darkcyan;
+  text-decoration: none;
+}
+
+a:active {
+  background: darkslategray;
+  color: white;
+  text-decoration: none;
+}
+
+input:focus{
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.5);
+  outline: none;
+  border: 1px solid black;
+}
+
+input:not(:checked) + p {
+  height:  50px;
+  width: 50px;
+  background: rgb(225, 255, 0);
+  
+}
+
+/* input:checked + p{
+  background: darkolivegreen;
+} */
+
+.pai .lista li:first-child {
+  background: rebeccapurple;
+}
+
+input:required {
+  background-color: darkolivegreen;
+}
+.using_not :not(.middle) {
+  color: blue
+
+}
