@@ -1,0 +1,28 @@
+ul li::after {
+  content: ' - ';
+  color: rgb(226, 43, 43);
+  display: block;
+  background-color: blueviolet;
+}
+
+p {
+  font-size: 24px;
+}
+
+p::first-letter {
+  font-size: 80px;
+  display: block;
+  float: left;
+  font-style: italic;
+  margin: 10px 10px 10px 0;
+}
+
+p::first-line {
+  background-color: rgb(89, 226, 43);
+  
+}
+
+p::selection {
+  background-color: black;
+  color: white;
+}
